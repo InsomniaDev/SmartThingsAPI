@@ -11,7 +11,7 @@ Groovy File for SmartThings API Integration
 6) Enter author: `SmartThings`
 7) Enter description: `SmartApp API for developers`
 7) Under "Oauth", click on Enable OAuth in Smart App. More fields will be added to the current form.
-8) Take note of the "Client ID" and "Client Secret". These will be used to authenticate and retrieve a token. Once the token is saved locally by the library, authentication can proceed without user intervention.
+8) Take note of the "Client ID" and "Client Secret".
 9) On Redirect URI, enter `http://localhost:4567/OAuthCallback`
 10) The application editor will open with a basic App template. Completely delete the editor contents and replace it with the contents of SmartThingsDeveloper.groovy in this package.
 11) Click the Save Button to save your changes.
